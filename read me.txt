@@ -1,4 +1,0 @@
-homework:
-    1.完全弄明白eureka
-    2.把整个eureka的注册和发现流程整理一遍，集群机制整理一遍，zookeeper和eureka的对比整理一遍
-        明天交(手抄)
