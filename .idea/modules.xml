@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20190821-springcloud-consumer-7081/20190821-springcloud-consumer-7081.iml" filepath="$PROJECT_DIR$/20190821-springcloud-consumer-7081/20190821-springcloud-consumer-7081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20190821-springcloud-eureka-6081/20190821-springcloud-eureka-6081.iml" filepath="$PROJECT_DIR$/20190821-springcloud-eureka-6081/20190821-springcloud-eureka-6081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20190821-springcloud-management/20190821-springcloud-management.iml" filepath="$PROJECT_DIR$/20190821-springcloud-management/20190821-springcloud-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20190821-springcloud-management/20190821-springcloud-mapper-01/20190821-springcloud-mapper-01.iml" filepath="$PROJECT_DIR$/20190821-springcloud-management/20190821-springcloud-mapper-01/20190821-springcloud-mapper-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20190821-springcloud-management/20190821-springcloud-model/20190821-springcloud-model.iml" filepath="$PROJECT_DIR$/20190821-springcloud-management/20190821-springcloud-model/20190821-springcloud-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/20190821-springcloud-parent.iml" filepath="$PROJECT_DIR$/.idea/20190821-springcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20190821-springcloud-provider-8081/20190821-springcloud-provider-8081.iml" filepath="$PROJECT_DIR$/20190821-springcloud-provider-8081/20190821-springcloud-provider-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20190821-springcloud-management/20190821-springcloud-service/20190821-springcloud-service.iml" filepath="$PROJECT_DIR$/20190821-springcloud-management/20190821-springcloud-service/20190821-springcloud-service.iml" />
+    </modules>
+  </component>
+</project>
